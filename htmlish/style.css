@@ -48,3 +48,9 @@ section {
 .end img {
   width: 50%;
 }
+.cat img{
+    width: 25%;
+}
+.cat{
+    text-align: center;
+}
