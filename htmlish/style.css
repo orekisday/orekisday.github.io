@@ -120,5 +120,9 @@ section {
 @media screen and (max-width: 320px){
     .up-photoes{
         font-size: 1.2rem;
+
+    }
+    .main-bg{
+        width: 100%;
     }
 }
