@@ -142,7 +142,9 @@ span{
     opacity: 1;
     z-index: -1;
 }
-
+.cat-title{
+  margin-bottom: 20px;
+}
 @media screen and (max-width: 400px){
 
     .logo-position{
@@ -161,7 +163,16 @@ span{
     .salad-section{
         margin: none;
     }
+    .content{
+      height:200px;
+    }
 
+    .photo-right__img:last-child{
+      margin-top: 15px;
+    }
+    .photo-right__img{
+      margin-top: 15px;
+    }
 }
 .kukung{
   position: fixed;
