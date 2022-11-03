@@ -22,14 +22,15 @@ hey there!
 
 
 ### The whole design, and at least half of the CSS are done by me
-<img width="1440" alt="Screenshot 2022-11-03 at 10 59 13 AM" src="https://user-images.githubusercontent.com/100344808/199650777-b8398507-4ab5-4d7c-a88e-331bb6929013.png">
+<img width="1440" alt="snippets of css" src="https://user-images.githubusercontent.com/100344808/199650777-b8398507-4ab5-4d7c-a88e-331bb6929013.png">
 
 
 
 ## While creting and recreting this project I had so much fun and learned a bunch of new things!
 
-### Last year he got to create Google Pages portfolio, therefore I borrowed the whole design from there
-![Uploading Screenshot 2022-11-03 at 11.06.19 AM.png…]()
+### Last year he got to create Google Pages portfolio, therefore I borrowed the whole design from there [myGoogleSites](https://sites.google.com/alatoo.edu.kg/henryernestov/home)
+
+<img width="1440" alt="googleSites" src="https://user-images.githubusercontent.com/100344808/199652006-ae5a7aeb-3af8-461a-bd5c-daad2aa6e90f.png">
 
 
 # Some code snippets I borrowed from [YouTube](https://youtube.com)
